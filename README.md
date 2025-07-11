@@ -13,6 +13,7 @@ This project is a responsive and modern **Image Gallery** built using **React.js
 - 🔹 Modular and reusable components
 - 🔹 Easily customizable image list
 - 🔹 Built with functional components and React Hooks
+- 🔹 Allow search image aurthor
 
 ## 🧰 Technologies Used
 
